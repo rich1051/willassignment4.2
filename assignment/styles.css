@@ -1,5 +1,6 @@
 body {
     background-color: rgb(95, 95, 95);
+    margin: 50px;
 }
 h1 {
     color: purple;
@@ -12,6 +13,7 @@ div {
     background-color: whitesmoke;
     font-size: larger;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(67, 67, 67);
 }
 img {
     background-color: rgb(187, 187, 187);
@@ -28,4 +30,5 @@ h3 {
     background-color: whitesmoke;
     font-size: large;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(67, 67, 67);
 }
